@@ -22,9 +22,9 @@ for seq in separando:
         calculo.append(header.split('_')[8])
         #print calculo
         if header.split('_')[7]=='+':
-            inicio = int(calculo[1])-int(calculo[2])
+            inicio = (int(calculo[1]))-int(calculo[2])
         else:
-            inicio = int(calculo[0])-int(calculo[2])
+            inicio = (int(calculo[0]))-int(calculo[2])
         inicio= abs(inicio)
         inicio=len(seq)-inicio
         print seq[inicio-11:inicio]
