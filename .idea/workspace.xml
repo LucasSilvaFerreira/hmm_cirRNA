@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3df226-53b4-4d49-b0bf-159b3eb54bc8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dividindo_exons_treinamento.py" afterPath="$PROJECT_DIR$/dividindo_exons_treinamento.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teste.png" afterPath="$PROJECT_DIR$/teste.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/introns_ciRNAs.txt" afterPath="$PROJECT_DIR$/introns_ciRNAs.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hmm_cirRNA.iws" />
@@ -41,7 +42,7 @@
       <file leaf-file-name="introns_ciRNAs.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="50" selection-start="5827" selection-end="5827" vertical-scroll-proportion="2.1851852" vertical-offset="2111" max-vertical-offset="5778">
+            <state line="109" column="46" selection-start="5562" selection-end="5562" vertical-scroll-proportion="-0.6666667" vertical-offset="1944" max-vertical-offset="5076">
               <folding />
             </state>
           </provider>
@@ -72,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/introns_ciRNAs.txt" />
         <option value="$PROJECT_DIR$/dividindo_exons_treinamento.py" />
+        <option value="$PROJECT_DIR$/introns_ciRNAs.txt" />
       </list>
     </option>
   </component>
@@ -139,6 +140,11 @@
     <option name="myPythonConsoleState">
       <PyConsoleSettings />
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.dividindo_exons_treinamento">
     <configuration default="false" name="dividindo_exons_treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -315,17 +321,23 @@
       <created>1382715525059</created>
       <updated>1382715525059</updated>
     </task>
+    <task id="LOCAL-00001" summary="primeiro">
+      <created>1382736418699</created>
+      <updated>1382736418699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1377" height="905" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24945454" sideWeight="0.6076923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24945454" sideWeight="0.6076923" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -347,6 +359,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="primeiro" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -370,9 +384,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="305" selection-end="305" vertical-scroll-proportion="0.14157303" vertical-offset="27" max-vertical-offset="5778">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="50" selection-start="5827" selection-end="5827" vertical-scroll-proportion="2.1851852" vertical-offset="2111" max-vertical-offset="5778">
+        <state line="109" column="46" selection-start="5562" selection-end="5562" vertical-scroll-proportion="-0.6666667" vertical-offset="1944" max-vertical-offset="5076">
           <folding />
         </state>
       </provider>
