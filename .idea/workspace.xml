@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3df226-53b4-4d49-b0bf-159b3eb54bc8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simplehmm.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hmm_cirRNA.iws" />
@@ -370,7 +368,11 @@
       <created>1382748521472</created>
       <updated>1382748521472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="preparando para treinar, vetores prontos">
+      <created>1382748538378</created>
+      <updated>1382748538378</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
