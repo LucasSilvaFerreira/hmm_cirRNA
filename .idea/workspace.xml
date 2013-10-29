@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3df226-53b4-4d49-b0bf-159b3eb54bc8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dinucleotideo_dividindo_exons_treinamento.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/query.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/hmm_cirRNA.iml" afterPath="$PROJECT_DIR$/.idea/hmm_cirRNA.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teste2.png" afterPath="$PROJECT_DIR$/teste2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dividindo_exons_treinamento.py" afterPath="$PROJECT_DIR$/dividindo_exons_treinamento.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" afterPath="$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hmm_cirRNA.iws" />
@@ -25,63 +32,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dividindo_exons_treinamento.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
+      <file leaf-file-name="query.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/query.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="45" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.8585086" vertical-offset="248" max-vertical-offset="2550">
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simplehmm.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simplehmm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="398" column="0" selection-start="14491" selection-end="14491" vertical-scroll-proportion="0.0" vertical-offset="6534" max-vertical-offset="14926">
+            <state line="12" column="25" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pydevd.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="18116" max-vertical-offset="25024">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste2.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="introns_ciRNAs.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="46" selection-start="5562" selection-end="5562" vertical-scroll-proportion="0.0" vertical-offset="1853" max-vertical-offset="4794">
+            <state line="110" column="0" selection-start="5563" selection-end="6215" vertical-scroll-proportion="-1.3333334" vertical-offset="1944" max-vertical-offset="5076">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="original_sem_deletar_os_com_gap_introns_ciRNAs.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
+      <file leaf-file-name="dinucleotideo_dividindo_exons_treinamento.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dinucleotideo_dividindo_exons_treinamento.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="37" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="9" max-vertical-offset="5457">
-              <folding />
+            <state line="193" column="0" selection-start="4857" selection-end="4857" vertical-scroll-proportion="0.3875598" vertical-offset="3312" max-vertical-offset="5040">
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,14 +81,16 @@
       <list>
         <option value="$PROJECT_DIR$/introns_ciRNAs.txt" />
         <option value="$PROJECT_DIR$/dividindo_exons_treinamento.py" />
+        <option value="$PROJECT_DIR$/dinucleotideo_dividindo_exons_treinamento.py" />
+        <option value="$PROJECT_DIR$/query.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1377" />
+    <option name="height" value="905" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -141,6 +118,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,7 +139,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +158,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dividindo_exons_treinamento">
+  <component name="RunManager" selected="Python.dinucleotideo_dividindo_exons_treinamento">
     <configuration default="false" name="dividindo_exons_treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,6 +172,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hmm_cirRNA" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dividindo_exons_treinamento.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dinucleotideo_dividindo_exons_treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hmm_cirRNA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dinucleotideo_dividindo_exons_treinamento.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -323,12 +320,14 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.dividindo_exons_treinamento" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dinucleotideo_dividindo_exons_treinamento" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.dividindo_exons_treinamento" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.dinucleotideo_dividindo_exons_treinamento" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dividindo_exons_treinamento" />
       </list>
     </recent_temporary>
   </component>
@@ -360,40 +359,28 @@
       <created>1382736418699</created>
       <updated>1382736418699</updated>
     </task>
-    <task id="LOCAL-00002" summary="preparando para treinar, vetores prontos">
-      <created>1382744373998</created>
-      <updated>1382744373998</updated>
-    </task>
-    <task id="LOCAL-00003" summary="preparando para treinar, vetores prontos">
-      <created>1382748521472</created>
-      <updated>1382748521472</updated>
-    </task>
-    <task id="LOCAL-00004" summary="preparando para treinar, vetores prontos">
-      <created>1382748538378</created>
-      <updated>1382748538378</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="64" y="-4" width="1377" height="905" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895833" sideWeight="0.6082251" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945454" sideWeight="0.38846153" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24945454" sideWeight="0.5897436" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40128204" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3917749" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41025642" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -407,17 +394,11 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="primeiro" />
-    <MESSAGE value="preparando para treinar, vetores prontos" />
-    <option name="LAST_COMMIT_MESSAGE" value="preparando para treinar, vetores prontos" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/dividindo_exons_treinamento.py</url>
-          <line>108</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/simplehmm.py</url>
           <line>398</line>
@@ -430,7 +411,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="54" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1241">
+        <state line="24" column="22" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="2700">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -439,21 +420,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="46" selection-start="5562" selection-end="5562" vertical-scroll-proportion="0.0" vertical-offset="1853" max-vertical-offset="4794">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="37" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="9" max-vertical-offset="5457">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="46" selection-start="5562" selection-end="5562" vertical-scroll-proportion="0.0" vertical-offset="1853" max-vertical-offset="4794">
+        <state line="109" column="46" selection-start="5562" selection-end="5562" vertical-scroll-proportion="0.0" vertical-offset="1944" max-vertical-offset="5076">
           <folding />
         </state>
       </provider>
@@ -463,28 +430,58 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste2.png">
+    <entry file="file:///usr/lib/python2.7/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="0" selection-start="8090" selection-end="8090" vertical-scroll-proportion="0.33242506" vertical-offset="2830" max-vertical-offset="5904">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="305" selection-end="305" vertical-scroll-proportion="0.14157303" vertical-offset="27" max-vertical-offset="5778">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="18116" max-vertical-offset="25024">
+        <state line="9" column="1" selection-start="245" selection-end="245" vertical-scroll-proportion="-4.0" vertical-offset="54" max-vertical-offset="4032">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="0" selection-start="5563" selection-end="6215" vertical-scroll-proportion="-1.3333334" vertical-offset="1944" max-vertical-offset="5076">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/simplehmm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="0" selection-start="14491" selection-end="14491" vertical-scroll-proportion="0.0" vertical-offset="6556" max-vertical-offset="14926">
+        <state line="398" column="0" selection-start="14491" selection-end="14491" vertical-scroll-proportion="0.5174014" vertical-offset="6905" max-vertical-offset="15804">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
+    <entry file="file://$PROJECT_DIR$/query.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="45" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.8585086" vertical-offset="248" max-vertical-offset="2550">
+        <state line="12" column="25" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dinucleotideo_dividindo_exons_treinamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="0" selection-start="4857" selection-end="4857" vertical-scroll-proportion="0.3875598" vertical-offset="3312" max-vertical-offset="5040">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
