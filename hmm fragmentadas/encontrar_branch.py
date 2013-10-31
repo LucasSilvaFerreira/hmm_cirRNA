@@ -15,3 +15,5 @@ for motivo in arquivo_motivos.split('\n'):
 cirRNA_hmm=simplehmm.hmm('circ_rna primeiros testes',['0','1','2','3','4','5','6','7','8','9','10'], ['A','C','T','G'])
 cirRNA_hmm.train(treinamento, smoothing='absdiscount')
 cirRNA_hmm.print_hmm()
+cirRNA_hmm.save_hmm('circRNA_FRAGMENTADA.hmm')
+
