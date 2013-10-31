@@ -18,8 +18,10 @@ for seq in arquivo.split('>'):
     for seq_bases in re.split('hg19.*\n' ,seq):
         sequencia_completa = re.sub('\r|\n','',seq_bases)
         #print sequencia_completa
+        sequencia_completa=sequencia_completa[::-1]
     contador=0
-
+    sequencia_motivo=[]
+    print (sequencia_completa)
     probabilidades=[]
     for x in range(0,len(sequencia_completa)):
         query=[]
@@ -27,11 +29,13 @@ for seq in arquivo.split('>'):
             for y in re.findall('\w',sequencia_completa[x:x+11]):
                 query.append(y)
             probabilidades.append(cirRNA_hmm.viterbi(query)[1])
+            sequencia_motivo.append(sequencia_completa[x:x+11])
 
     try:
         #print len (probabilidades)
         print sorted(probabilidades)[len(probabilidades)-1]
         print probabilidades.index(sorted(probabilidades)[len(probabilidades)-1])
+        print sequencia_motivo[probabilidades.index(sorted(probabilidades)[len(probabilidades)-1])]
         print int(position[0])+int(probabilidades.index(sorted(probabilidades)[len(probabilidades)-1])),branch
     except:
         print 'zero'
