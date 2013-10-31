@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3df226-53b4-4d49-b0bf-159b3eb54bc8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py" afterPath="$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmmsplicer.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/motivos/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/motivos/logo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmm fragmentadas/teste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circ.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmm fragmentadas/circRNA_FRAGMENTADA.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmm fragmentadas/interface.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hmm fragmentadas/quase_original_teste.mtv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/hmm_cirRNA.iml" afterPath="$PROJECT_DIR$/.idea/hmm_cirRNA.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" afterPath="$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" afterPath="$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py" afterPath="$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hmm fragmentadas/teste.mtv" afterPath="$PROJECT_DIR$/hmm fragmentadas/teste.mtv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hmm_cirRNA.iws" />
@@ -30,35 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dividindo_exons_treinamento.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="148" column="0" selection-start="3893" selection-end="3930" vertical-scroll-proportion="0.0" vertical-offset="2278" max-vertical-offset="3808">
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="encontrar_branch.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="-144.5" vertical-offset="0" max-vertical-offset="425">
-              <folding>
-                <element signature="e#30#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="procurar_hmm.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="procurar_hmm.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="41" selection-start="834" selection-end="834" vertical-scroll-proportion="0.41266796" vertical-offset="210" max-vertical-offset="731">
-              <folding>
-                <element signature="e#30#47#0" expanded="true" />
-              </folding>
+            <state line="28" column="27" selection-start="969" selection-end="969" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1044">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,43 +51,25 @@
       <file leaf-file-name="original_sem_deletar_os_com_gap_introns_ciRNAs.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5457">
+            <state line="316" column="15" selection-start="15942" selection-end="15942" vertical-scroll-proportion="0.0" vertical-offset="5476" max-vertical-offset="5976">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simplehmm.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hmm fragmentadas/simplehmm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14926">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="motivos_circRNA.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/motivos/motivos_circRNA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="357" selection-end="870" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste.mtv" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="teste.mtv" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hmm fragmentadas/teste.mtv">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state line="10" column="11" selection-start="131" selection-end="131" vertical-scroll-proportion="0.61433446" vertical-offset="0" max-vertical-offset="293">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="motivos_manurais.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/motivos/motivos_manurais.py">
+      <file leaf-file-name="drawer.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/dist-packages/biograpy-1.0adev-py2.7.egg/biograpy/drawer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+            <state line="130" column="0" selection-start="4694" selection-end="4694" vertical-scroll-proportion="0.0" vertical-offset="2240" max-vertical-offset="9396">
               <folding />
             </state>
           </provider>
@@ -135,17 +102,21 @@
         <option value="$PROJECT_DIR$/motivos/teste.mtv" />
         <option value="$PROJECT_DIR$/motivos/motivos_manurais.py" />
         <option value="$PROJECT_DIR$/motivos/motivos_circRNA.py" />
-        <option value="$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py" />
         <option value="$PROJECT_DIR$/hmm fragmentadas/teste.html" />
+        <option value="$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py" />
+        <option value="$PROJECT_DIR$/hmm fragmentadas/quase_original_teste.mtv" />
+        <option value="$PROJECT_DIR$/hmm fragmentadas/interface.py" />
+        <option value="$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt" />
+        <option value="$PROJECT_DIR$/hmm fragmentadas/teste.mtv" />
         <option value="$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="66" />
+    <option name="y" value="69" />
+    <option name="width" value="1390" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -173,7 +144,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,47 +162,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hmm_cirRNA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hmm_cirRNA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motivos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hmm_cirRNA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hmm_cirRNA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hmm fragmentadas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.buildout.BuildoutModulesConfigurable" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -241,6 +184,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hmm fragmentadas" />
       <recent name="D:\Users\lucas Ferreira\PycharmProjects\hmm_cirRNA\hmm fragmentadas" />
       <recent name="D:\Users\lucas Ferreira\PycharmProjects\hmm_cirRNA" />
       <recent name="D:\Users\lucas Ferreira\PycharmProjects\hmm_cirRNA\motivos" />
@@ -248,26 +192,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.procurar_hmm">
-    <configuration default="false" name="dividindo_exons_treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hmm_cirRNA" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dividindo_exons_treinamento.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="motivos_circRNA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +259,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hmm_cirRNA" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hmm fragmentadas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hmm_cirRNA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hmm fragmentadas/interface.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -462,19 +406,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dividindo_exons_treinamento" />
-      <item index="1" class="java.lang.String" itemvalue="Python.motivos_circRNA" />
-      <item index="2" class="java.lang.String" itemvalue="Python.motivos_manurais" />
-      <item index="3" class="java.lang.String" itemvalue="Python.encontrar_branch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.procurar_hmm" />
+      <item index="0" class="java.lang.String" itemvalue="Python.motivos_circRNA" />
+      <item index="1" class="java.lang.String" itemvalue="Python.motivos_manurais" />
+      <item index="2" class="java.lang.String" itemvalue="Python.encontrar_branch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.procurar_hmm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.interface" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.procurar_hmm" />
-        <item index="1" class="java.lang.String" itemvalue="Python.encontrar_branch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.motivos_circRNA" />
-        <item index="3" class="java.lang.String" itemvalue="Python.motivos_manurais" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dividindo_exons_treinamento" />
+        <item index="1" class="java.lang.String" itemvalue="Python.interface" />
+        <item index="2" class="java.lang.String" itemvalue="Python.encontrar_branch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.motivos_circRNA" />
+        <item index="4" class="java.lang.String" itemvalue="Python.motivos_manurais" />
       </list>
     </recent_temporary>
   </component>
@@ -514,28 +458,32 @@
       <created>1383186650120</created>
       <updated>1383186650121</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tentando buscar por partes separadas&#10;nova pasta criada">
+      <created>1383231901028</created>
+      <updated>1383231901028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="66" y="69" width="1390" height="830" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945454" sideWeight="0.38846153" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29114583" sideWeight="0.6147186" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40128204" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35395685" sideWeight="0.50817436" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40054497" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38528138" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38528138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4918256" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -556,9 +504,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945454" sideWeight="0.38846153" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29114583" sideWeight="0.7619048" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23809524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -582,123 +530,99 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="60" selection-start="3258" selection-end="3258" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="5457" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="0" selection-start="3893" selection-end="3930" vertical-scroll-proportion="-0.54545456" vertical-offset="2664" max-vertical-offset="3942" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/circRNA_FRAGMENTADA.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="38" selection-start="1849" selection-end="1849" vertical-scroll-proportion="1.0035971" vertical-offset="162" max-vertical-offset="1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motivos/motivos_circRNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="357" selection-end="870" vertical-scroll-proportion="-0.94244605" vertical-offset="992" max-vertical-offset="1548" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/teste.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simplehmm.py">
+    <entry file="file://$PROJECT_DIR$/motivos/motivos_manurais.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="0" selection-start="14491" selection-end="14491" vertical-scroll-proportion="0.5174014" vertical-offset="6905" max-vertical-offset="15804">
+        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.28125" vertical-offset="0" max-vertical-offset="126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/simplehmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="397" column="0" selection-start="14426" selection-end="14426" vertical-scroll-proportion="0.33333334" vertical-offset="7024" max-vertical-offset="15804" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="94" selection-end="94" vertical-scroll-proportion="0.22040816" vertical-offset="0" max-vertical-offset="432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/quase_original_teste.mtv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="11" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="415" selection-end="415" vertical-scroll-proportion="0.5863192" vertical-offset="0" max-vertical-offset="666">
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/teste.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="316" column="15" selection-start="15942" selection-end="15942" vertical-scroll-proportion="0.0" vertical-offset="5476" max-vertical-offset="5976">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/query.txt">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/biograpy-1.0adev-py2.7.egg/biograpy/drawer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+        <state line="130" column="0" selection-start="4694" selection-end="4694" vertical-scroll-proportion="0.0" vertical-offset="2240" max-vertical-offset="9396">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/introns_ciRNAs.txt">
+    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="5076">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editado_para_ajustar_bases.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="20" selection-start="10054" selection-end="10056" vertical-scroll-proportion="0.0" vertical-offset="3383" max-vertical-offset="5457">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/motivos/teste.mtv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dinucleotideo_dividindo_exons_treinamento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="0" selection-start="4857" selection-end="4857" vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="5040">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="60" selection-start="3258" selection-end="3258" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="5457">
+        <state line="28" column="27" selection-start="969" selection-end="969" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1044">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hmm fragmentadas/teste.mtv">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="678">
+        <state line="10" column="11" selection-start="131" selection-end="131" vertical-scroll-proportion="0.61433446" vertical-offset="0" max-vertical-offset="293">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/motivos/motivos_manurais.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="119">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/motivos/motivos_circRNA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="357" selection-end="870" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/original_sem_deletar_os_com_gap_introns_ciRNAs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5457">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/simplehmm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14926">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dividindo_exons_treinamento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="148" column="0" selection-start="3893" selection-end="3930" vertical-scroll-proportion="0.0" vertical-offset="2278" max-vertical-offset="3808">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/encontrar_branch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="-144.5" vertical-offset="0" max-vertical-offset="425">
-          <folding>
-            <element signature="e#30#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hmm fragmentadas/procurar_hmm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="41" selection-start="834" selection-end="834" vertical-scroll-proportion="0.41266796" vertical-offset="210" max-vertical-offset="731">
-          <folding>
-            <element signature="e#30#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

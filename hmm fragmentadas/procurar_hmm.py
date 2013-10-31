@@ -28,14 +28,26 @@ for seq in arquivo.split('>'):
         if x < len(sequencia_completa)-11:
             for y in re.findall('\w',sequencia_completa[x:x+11]):
                 query.append(y)
-            probabilidades.append(cirRNA_hmm.viterbi(query)[1])
-            sequencia_motivo.append(sequencia_completa[x:x+11])
 
+
+            if query[0]=='A'or query[0]=='C':
+                if query[7]=='C' or query[7]=='G':
+                    if query[9]=='C' or query[9]=='T':
+                        probabilidades.append([cirRNA_hmm.viterbi(query)[1],sequencia_completa[x:x+11],x])
+                        sequencia_motivo.append(sequencia_completa[x:x+11])
+
+
+            else:  # necessario para nao danificar o contador de posicao dentro do vetor
+                probabilidades.append(-1)
+                sequencia_motivo.append(-1)
     try:
         #print len (probabilidades)
-        print sorted(probabilidades)[len(probabilidades)-1]
-        print probabilidades.index(sorted(probabilidades)[len(probabilidades)-1])
-        print sequencia_motivo[probabilidades.index(sorted(probabilidades)[len(probabilidades)-1])]
+        #print sorted(probabilidades)[len(probabilidades)-1]
+        for i in range(1,10):
+            print'-----------------------------------'
+            print sorted(probabilidades)[len(probabilidades)-i]
+            #print probabilidades.index(sorted(probabilidades)[len(probabilidades)-i])
+            #print sequencia_motivo[probabilidades.index(sorted(probabilidades)[len(probabilidades)-i])]
         print int(position[0])+int(probabilidades.index(sorted(probabilidades)[len(probabilidades)-1])),branch
     except:
         print 'zero'
